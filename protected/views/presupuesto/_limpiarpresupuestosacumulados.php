@@ -1,1 +1,0 @@
-<?php echo "No hubo presupuestos"; ?>
